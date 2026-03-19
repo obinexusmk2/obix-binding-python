@@ -1,0 +1,16 @@
+.
+├── __tests__
+│   └── smoke.test.ts
+├── dist
+│   ├── index.d.ts
+│   ├── index.d.ts.map
+│   ├── index.js
+│   └── index.js.map
+├── node_modules
+├── package.json
+├── src
+│   └── index.ts
+├── tsconfig.json
+└── txt
+
+5 directories, 9 files

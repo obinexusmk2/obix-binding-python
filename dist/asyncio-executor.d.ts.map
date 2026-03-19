@@ -1,0 +1,1 @@
+{"version":3,"file":"asyncio-executor.d.ts","sourceRoot":"","sources":["../src/asyncio-executor.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EACV,kBAAkB,EAClB,qBAAqB,EAGrB,eAAe,EAChB,MAAM,YAAY,CAAC;AAIpB,wBAAgB,qBAAqB,CACnC,SAAS,EAAE,eAAe,EAC1B,MAAM,EAAE,qBAAqB,GAC5B,kBAAkB,CAmEpB"}
